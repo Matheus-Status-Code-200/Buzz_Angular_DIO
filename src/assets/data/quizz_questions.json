@@ -1,0 +1,86 @@
+{
+    "title": "Descubra se você é Frontend ou Backend ?",
+    "questions": [{
+            "id": 1,
+            "question": "Você gosta de criar, implementar e fazer manutenções constantes em bancos de dados?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "A" },
+                { "id": 2, "name": "Não", "alias": "B" }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Você gosta de fazer integrações de APIs?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "A" },
+                { "id": 2, "name": "Não", "alias": "B" }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Você gosta de garantir a segurança de dados e informações;?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "A" },
+                { "id": 2, "name": "Não", "alias": "B" }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Qual o seu maior foco?",
+            "options": [
+                { "id": 1, "name": "Backend", "alias": "A" },
+                { "id": 2, "name": "Frontend", "alias": "B" }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Voce quer ou gosta de administrar e desenvolver bando de dados?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "A" },
+                { "id": 2, "name": "Não", "alias": "B" }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Voce quer ou gosta de construir interfaces?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "B" },
+                { "id": 2, "name": "Não", "alias": "A" }
+            ]
+        }, {
+            "id": 7,
+            "question": "Voce quer ou gosta do trabalho de implementação desse design?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "B" },
+                { "id": 2, "name": "Não", "alias": "A" }
+            ]
+        }, {
+            "id": 8,
+            "question": "Voce quer ou gosta do trabalho de correção de erros visuais?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "B" },
+                { "id": 2, "name": "Não", "alias": "A" }
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Voce quer ou gosta de monitorar a experiência do usuário?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "B" },
+                { "id": 2, "name": "Não", "alias": "A" }
+            ]
+        }, {
+            "id": 10,
+            "question": "Voce quer ou gosta de Captação e implementação de feedback?",
+            "options": [
+                { "id": 1, "name": "SIm", "alias": "B" },
+                { "id": 2, "name": "Não", "alias": "A" }
+            ]
+        }
+    ],
+    "results": {
+        "A": "Você muito provavelmente será um bom desenvolvedor Back end!",
+        "B": "Você muito provavelmente um bom desenvolvedor Front end!",
+        "C": "Tente a área de Full stack, assim você irá juntar suas áreas de interesse!"
+    }
+}
